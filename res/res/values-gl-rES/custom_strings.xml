@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Desbloqueo facial</string>
+    <string name="attr_blur">A faciana está demasiado borrosa</string>
+    <string name="attr_eye_close">Manteña ámbolos ollos abertos</string>
+    <string name="attr_eye_occlusion">Só faciana parcial detectada</string>
+    <string name="attr_light_dark">A faciana precisa máis luz</string>
+    <string name="attr_light_high">A faciana ten luz de máis </string>
+    <string name="attr_light_shadow">A faciana ten sombras de máis </string>
+    <string name="attr_mouth_occlusion">Só faciana parcial detectada</string>
+    <string name="btn_done">Feito</string>
+    <string name="btn_try">Téntao de novo</string>
+    <string name="confirm_lock_screen_btn_auth">Autenticar</string>
+    <string name="confirm_lock_screen_to_enable_face_summary">Para activar o desbloqueo facial, insira o seu PIN, contrasinal ou patrón</string>
+    <string name="confirm_lock_screen_to_enable_face_title">Requírese identificación</string>
+    <string name="disabled_because_device_policy">Desactivado polo administrador</string>
+    <string name="disabled_because_no_backup_security">Para usalo, primeiro configure un bloqueo de pantalla</string>
+    <string name="face_finish_header_2">Case está</string>
+    <string name="face_instruct_anime_header">Levante, olle, e desbloquee</string>
+    <string name="face_instruct_anime_next">conseguino</string>
+</resources>

@@ -49,6 +49,7 @@
     <string name="security_settings_face_unlock_bypass_lock_screen_title">Apeikite užrakto ekraną</string>
     <string name="security_settings_face_unlock_disable_face_unlock_summary">Pašalinkite visus saugomus veido nuskaitymus ir išjunkite veido atrakinimą</string>
     <string name="security_settings_face_unlock_disable_face_unlock_title">Išjungti veido atpažinimo atrakinimą</string>
+    <string name="security_settings_face_unlock_preference_title">Veido atpažinimo užraktas</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">Pašalinkite esamą veido nuskaitymą ir sukurkite naują nuskaitymą</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Pakartotinis veido nuskaitymo procesas</string>
     <string name="title_activity_face_intro">Įvadas į veido atpažinimo užraktą</string>

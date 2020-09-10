@@ -9,7 +9,7 @@
     <string name="attr_light_shadow">Trop d\'ombres sur le visage</string>
     <string name="attr_mouth_occlusion">Visage seulement partiellement détecté</string>
     <string name="btn_done">Terminé</string>
-    <string name="btn_try">RÉESSAYER</string>
+    <string name="btn_try">Réessayez</string>
     <string name="confirm_lock_screen_btn_auth">Authentification</string>
     <string name="confirm_lock_screen_to_enable_face_summary">Pour activer le déverrouillage par reconnaissance faciale, entrez votre code PIN, mot de passe ou schéma</string>
     <string name="confirm_lock_screen_to_enable_face_title">Authentification requise</string>
@@ -21,7 +21,7 @@
     <string name="face_intro_conten_first_point">La correspondance faciale est moins sûre qu\'un schéma, qu\'un code PIN ou qu\'un mot de passe</string>
     <string name="face_intro_content_second_point">Quelqu\'un qui vous ressemble peut déverrouiller votre téléphone</string>
     <string name="face_intro_content_third_point">Les données utilisées pour reconnaître votre visage sont conservées sur votre téléphone comme données privées</string>
-    <string name="face_intro_next">SUIVANT</string>
+    <string name="face_intro_next">Suivant</string>
     <string name="face_intro_remember">Rappel :</string>
     <string name="face_intro_summary">Déverrouillez votre téléphone simplement en le regardant.</string>
     <string name="face_intro_summary_for_lift">Déverrouillez votre téléphone d\'un regard, en le levant à hauteur du visage.</string>

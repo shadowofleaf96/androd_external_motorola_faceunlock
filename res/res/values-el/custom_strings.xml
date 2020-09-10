@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Face unlock</string>
+    <string name="app_name">Ξεκλείδωμα με αναγνώριση προσώπου</string>
     <string name="attr_blur">Το πρόσωπο είναι πολύ θολό</string>
-    <string name="attr_eye_close">Κρατήστε τα μάτια σας ανοιχτά</string>
+    <string name="attr_eye_close">Κρατήστε και τα δύο μάτια σας ανοιχτά</string>
     <string name="attr_eye_occlusion">Εντοπίστηκε μόνο μέρος του προσώπου</string>
     <string name="attr_light_dark">Το πρόσωπο χρειάζεται περισσότερο φως</string>
-    <string name="attr_light_high">Το πρόσωπο έχει πολύ φως</string>
+    <string name="attr_light_high">Υπερβολικός φωτισμός στο πρόσωπο</string>
     <string name="attr_light_shadow">Το πρόσωπο έχει πολλές σκιές</string>
     <string name="attr_mouth_occlusion">Εντοπίστηκε μόνο μέρος του προσώπου</string>
     <string name="btn_done">Τέλος</string>
-    <string name="btn_try">ΕΠΑΝΑΛΗΨΗ</string>
-    <string name="confirm_lock_screen_btn_auth">Έλεγχος ταυτότητας</string>
+    <string name="btn_try">Προσπαθήστε ξανά</string>
+    <string name="confirm_lock_screen_btn_auth">Ταυτοποίηση</string>
     <string name="confirm_lock_screen_to_enable_face_summary">Για να ενεργοποιήσετε το Face Unlock, εισαγάγετε το PIN, τον κωδικό πρόσβασης ή το μοτίβο σας</string>
-    <string name="confirm_lock_screen_to_enable_face_title">Απαιτείται έλεγχος ταυτότητας</string>
+    <string name="confirm_lock_screen_to_enable_face_title">Απαιτείται ταυτοποίηση</string>
     <string name="disabled_because_device_policy">Απενεργοποιήθηκε από το διαχειριστή</string>
     <string name="disabled_because_no_backup_security">Για να τις χρησιμοποιήσετε, ορίστε πρώτα το κλείδωμα οθόνης</string>
     <string name="face_finish_header_2">Η διαδικασία σχεδόν ολοκληρώθηκε</string>
@@ -52,7 +52,7 @@
     <string name="security_settings_face_unlock_preference_title">Face unlock</string>
     <string name="security_settings_face_unlock_redo_face_scan_summary">Κατάργηση υπάρχουσας σάρωσης προσώπου και δημιουργία νέας σάρωσης</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Επανάληψη σάρωσης προσώπου</string>
-    <string name="title_activity_face_intro">Εισαγωγή Face unlock</string>
+    <string name="title_activity_face_intro">Εισαγωγή στο Ξεκλείδωμα Προσώπου</string>
     <string name="txt_camera_success">Το πρόσωπο καταχωρήθηκε</string>
     <string name="txt_camera_success_down">Κοιτάξτε απευθείας την κάμερα</string>
     <string name="txt_camera_success_left">Κοιτάξτε απευθείας την κάμερα</string>
